@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    width: 25%;
+    background: #4f00
+}
+
+.buttons {
+    width: 100%;
+}
